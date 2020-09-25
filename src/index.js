@@ -16,7 +16,7 @@ const App = () => {
   const [user,setUser] = useState()
   return (
     <>
-    <Router>
+    <Router basename="projekat-react">
         <Content setUser={setUser} user={user}/>
     </Router>
     </>
