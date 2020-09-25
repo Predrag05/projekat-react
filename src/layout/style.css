@@ -1,0 +1,25 @@
+.main {
+    background: #4b1abd;
+    border: 1px, solid #5e5e5e;
+    padding: 14px;
+}
+
+.inp {
+   
+    width: 50vw;  
+    display: block;
+    margin: 5px auto;
+}
+
+.btn {
+
+    width: 14vw;  
+    display: block;
+    margin: 20px auto;
+    
+}
+
+.topic{
+    text-align: center;
+    margin: 14px auto;
+}
