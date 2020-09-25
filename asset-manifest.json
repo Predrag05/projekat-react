@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/projekat-react/static/css/main.d4c6caaa.chunk.css",
+    "main.css": "/projekat-react/static/css/main.9305d589.chunk.css",
     "main.js": "/projekat-react/static/js/main.3758a2e8.chunk.js",
     "main.js.map": "/projekat-react/static/js/main.3758a2e8.chunk.js.map",
     "runtime-main.js": "/projekat-react/static/js/runtime-main.9c9e671f.js",
@@ -8,15 +8,15 @@
     "static/js/2.5cdbc037.chunk.js": "/projekat-react/static/js/2.5cdbc037.chunk.js",
     "static/js/2.5cdbc037.chunk.js.map": "/projekat-react/static/js/2.5cdbc037.chunk.js.map",
     "index.html": "/projekat-react/index.html",
-    "precache-manifest.ba42f3bb41b12535803b0068ea07e0ce.js": "/projekat-react/precache-manifest.ba42f3bb41b12535803b0068ea07e0ce.js",
+    "precache-manifest.74011eea8262892038af151ac7f26dda.js": "/projekat-react/precache-manifest.74011eea8262892038af151ac7f26dda.js",
     "service-worker.js": "/projekat-react/service-worker.js",
-    "static/css/main.d4c6caaa.chunk.css.map": "/projekat-react/static/css/main.d4c6caaa.chunk.css.map",
+    "static/css/main.9305d589.chunk.css.map": "/projekat-react/static/css/main.9305d589.chunk.css.map",
     "static/js/2.5cdbc037.chunk.js.LICENSE.txt": "/projekat-react/static/js/2.5cdbc037.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9c9e671f.js",
     "static/js/2.5cdbc037.chunk.js",
-    "static/css/main.d4c6caaa.chunk.css",
+    "static/css/main.9305d589.chunk.css",
     "static/js/main.3758a2e8.chunk.js"
   ]
 }
